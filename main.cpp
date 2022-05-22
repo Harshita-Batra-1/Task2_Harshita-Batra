@@ -4,15 +4,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl; //to print string ".."
+    cout << "Hello world!" << endl; 
 
-    char d = 'x'; //ending with ; vvv imp.
-    cout << d << endl; //to print char character is given as '..'
+    char d = 'x';
+    cout << d << endl; 
 
     int a = 10;
-    cout<<a<< endl; //to print integer simply a bcz usko memory allocate ho chuki
-
-    bool e = false; //case sensitive False - error
+    cout<<a<< endl; 
+    bool e = false; 
     cout<<e;
 
     return 0;
