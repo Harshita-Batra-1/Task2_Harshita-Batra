@@ -1,5 +1,6 @@
 //Write your code here
 //This is a basic hello world code
+//This is C++ code
 #include <iostream>
 using namespace std;
 
